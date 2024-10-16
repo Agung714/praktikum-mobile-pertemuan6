@@ -1,3 +1,6 @@
+NIM: 2209106042
+NAMA: ANANDITA AGUNG NUGRAHA
+
 # prak6
 
 A new Flutter project.
